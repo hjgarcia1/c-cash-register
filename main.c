@@ -80,7 +80,7 @@ int process_change(int change, int coin)
 void print_results(float total_change)
 {
     printf("Number of Coins: %i\n", no_coins);
-    printf("Number of Single Dollars: %i\n", no_single_dollars);
+    printf("Number of Single Dollar Bills: %i\n", no_single_dollars);
     printf("Number of Half Dollars: %i\n", no_half_dollars);
     printf("Number of Quaters: %i\n", no_quarters);
     printf("Number of Dimes: %i\n", no_dimes);
